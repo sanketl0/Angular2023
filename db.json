@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "The Lalit",
+      "address": "Mumbai Airport Road",
+      "email": "LalitInfo@gmail.com",
+      "services": "contenental",
+      "mobile": 888888882
+    },
+    {
+      "id": 2,
+      "name": "Grand Hayat",
+      "address": "Pune",
+      "email": "Hayat@gmail.com",
+      "services": "Indian",
+      "mobile": 9090909090
+    },
+    {
+      "id": 3,
+      "name": "Le Meridian",
+      "address": "Pune Mumbai highway",
+      "email": "Meridian@gmail.com",
+      "services": "Chinese",
+      "mobile": 9999999999
+    },
+    {
+      "id": 4,
+      "name": "Shereton Grand",
+      "address": "Koregaon park",
+      "email": "GrandInfo@gmail.com",
+      "services": "contenental",
+      "mobile": 797989896767
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 999999999,
+      "password": "password@123",
+      "id": 1
+    },
+    {
+      "name": "Admin",
+      "email": "Marvellous@gmail.com",
+      "mobile": 3164631649,
+      "password": "Admin@123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
